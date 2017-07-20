@@ -36,3 +36,4 @@ We need your help to develop a Machine Learning algorithm that, using this knowl
 **Tools to Learn:**
 - Natural Language Processing tools:
 - Support Vector Machines
+- [Word2Vec](https://code.google.com/archive/p/word2vec/)
