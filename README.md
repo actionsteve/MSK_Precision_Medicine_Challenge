@@ -1,5 +1,5 @@
 # MSK_Precision_Medicine_Challenge
-#### Collin Wiles
+#### Collin Wiles, Steve Russo, Allan Dong
 *************
 ## About
 https://www.kaggle.com/c/msk-redefining-cancer-treatment
