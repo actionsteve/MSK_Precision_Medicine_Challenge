@@ -43,11 +43,12 @@ DATA
 - Explore ways to process Natural Laugage?
 - Cross References? perhaps maybe later 
 
+SOFTWARE TOOLS
+- AWS
+
 DIMENSION REDUCTION
 - how to select relevant features
 
 MODEL
 - Different iterations of Random Forests
 - SVC
-
-
